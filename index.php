@@ -17,8 +17,8 @@
                         <div class="btn mt-4 mb-4 ">
                             <a class="btn  btn-warning col-sm-3" href="ajout-patient.php" title="Ajouter un patient">Ajouter un patient</a>
                             <a class="btn btn-dark col-sm-3" href="liste-patients.php" title="Liste des patients">Liste des patients</a>
-                            <a class="btn btn-success col-sm-3" href="ajout-rendezvous.php" title="Ajouter un rendez-vous">Ajouter un rendez-vous</a>
-                            <a class="btn btn-info col-sm-3" href="liste-rendezvous.php" title="Liste des rendez-vous">Liste des rendez-vous</a>
+                            <a class="btn btn-success col-sm-3" href="Controllers/add-appointmentController.php" title="Ajouter un rendez-vous">Ajouter un rendez-vous</a>
+                            <a class="btn btn-info col-sm-3" href="Controllers/liste-appointmentController.php" title="Liste des rendez-vous">Liste des rendez-vous</a>
                         </div>
                     </div>
                 </div>
